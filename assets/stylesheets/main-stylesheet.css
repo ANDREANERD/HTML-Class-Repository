@@ -1,10 +1,6 @@
 @charset "UTF-8";
 /* CSS Class Project */
-<<<<<<< HEAD
-=======
 
-
->>>>>>> 2af3fed8a7022283f70150555408f3de9e514e5c
 @font-face {
     font-family: 'Roboto';}
 
@@ -402,52 +398,41 @@ box-shadow: -5px 11px 9px -14px rgba(0,0,0,0.35);
     margin-top: 2rem;
 }
 
-.science-banner{
+.default-banner{
     width: 100%;
     height: 400px;
+    margin: 0px;
+    padding: 0px;
+    float: left;
+    
+}
+
+.science-banner{
     background-image: url("../images/aerial-river-background-science-page.jpg");
     background-size:cover;
     background-position: top center left;
     background-repeat: no-repeat;
-    margin: 0px 0px 0px 0%;
-    padding: 0px;
-    float: left;
     
 }
 .apps-team-banner{
-    width: 100%;
-    height: 400px;
     background-image: url("../images/forest-aerial-view.jpg");
     background-size:cover;
     background-position: top center left;
     background-repeat: no-repeat;
-    margin: 0px 0px 0px 0%;
-    padding: 0px;
-    float: left;
 }
 
 .about-banner{
-    width: 100%;
-    height: 400px;
     background-image: url("../images/aerial-about-page.jpg");
     background-size:cover;
     background-position: top center left;
     background-repeat: no-repeat;
-    margin: 0px 0px 0px 0%;
-    padding: 0px;
-    float: left;
     
 }
 .landsurvey-banner{
-    width: 100%;
-    height: 400px;
     background-image: url("../images/aerial-landsurvey-page.jpg");
     background-size:cover;
     background-position: top center left;
     background-repeat: no-repeat;
-    margin: 0px 0px 0px 0%;
-    padding: 0px;
-    float: left;
     
 }
 .sarfdas-banner{
